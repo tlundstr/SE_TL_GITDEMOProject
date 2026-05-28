@@ -96,9 +96,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">Thomas.Lundstrom@ibm.com</value>
-    <value name="createdDate">1779959585125</value>
-    <value name="lastModifiedDate">1779959585125</value>
+    <value name="lastModifiedBy">Thomas.Lundstrom@ibm.com</value>
+    <value name="lastModifiedDate">1779959601324</value>
     <value name="displayName">concatDAF</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
